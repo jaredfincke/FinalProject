@@ -15,7 +15,10 @@ As an avid sports card collector I do own many star players rookie cards. I try 
 
 
 ## Data ##
-I pulled my data from [Kaggle's Baseball Databank](https://www.kaggle.com/open-source-sports/baseball-databank). This Project soley used the Teams CSV file.
+I collected my data from Ebay.com using a third-party web scraping product called Parsehub(https://www.parsehub.com/)
+Utilizing Parsehub, I look at the past 90 days of sales of specific sports cards (one of their popular Rookie Cards) for a star-athlete in each major sport. I used my knowledge of sports cards to identify these athletes and card to search. I then added the condition of the card being graded by PSA (and receiving either a 10,9, or 8 grade) or being ungraded. I downloaded each scrape (4 for each player or 16 total) into a csv file with the title of the card, the url, the sale price.
+
+Although Parsehub was quite useful in collecting the data, there was still work to be down to get rid of items that matched my search criteria, but were not useful for other reasons such as multiple cards being sold in one listing. My work in identifying these listings and removing them can be found in my Data_Retrieval notebook(https://github.com/jaredfincke/FinalProject/blob/main/Notebooks/Data_Retrieval.ipynb). 
 
 ## Table of Content ##
 [Project Repo](https://github.com/jaredfincke/Project-1)
@@ -30,3 +33,6 @@ I pulled my data from [Kaggle's Baseball Databank](https://www.kaggle.com/open-s
 Languages : Python
 Tools/IDE : Anaconda
 Libraries : pandas, numpy, matplotlib, statsmodels, sklearn
+
+Referenced 
+https://www.freecodecamp.org/news/how-to-combine-multiple-csv-files-with-8-lines-of-code-265183e0854/
