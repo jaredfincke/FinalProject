@@ -37,7 +37,7 @@ Tools/IDE : Anaconda
 Libraries : pandas, numpy, seaborn, matplotlib, statistics, sklearn
 
 Referenced: 
-https://www.freecodecamp.org/news/how-to-combine-multiple-csv-files-with-8-lines-of-code-265183e0854/
-https://matplotlib.org/stable/tutorials/introductory/pyplot.html
-https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
-https://stackoverflow.com/questions/44469313/price-column-object-to-int-in-pandas
+[FreecodeCamp.org](https://www.freecodecamp.org/news/how-to-combine-multiple-csv-files-with-8-lines-of-code-265183e0854/)
+[Matplotlib.org](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)
+[Kaggle.com](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
+[Stackoverflow.com](https://stackoverflow.com/questions/44469313/price-column-object-to-int-in-pandas)
