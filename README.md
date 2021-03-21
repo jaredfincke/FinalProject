@@ -1,4 +1,4 @@
- # Is it worth it get Sports Cards Graded #
+ # Is it Worth it to get Sports Cards Graded #
 
 
 ## Overview ##
