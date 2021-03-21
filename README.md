@@ -34,7 +34,7 @@ Although Parsehub was quite useful in collecting the data, there was a lot of wo
 ## Packages and Software ##
 Languages : Python\
 Tools/IDE : Anaconda\
-Libraries : pandas, numpy, seaborn, matplotlib, statistics\
+Libraries : pandas, numpy, seaborn, matplotlib, statistics
 
 Referenced: 
 [FreecodeCamp.org](https://www.freecodecamp.org/news/how-to-combine-multiple-csv-files-with-8-lines-of-code-265183e0854/), 
